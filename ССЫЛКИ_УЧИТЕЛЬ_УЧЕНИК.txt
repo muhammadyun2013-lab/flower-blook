@@ -1,0 +1,6 @@
+После публикации на Render:
+Учитель: https://flower-blook.onrender.com/?role=teacher
+Ученик: https://flower-blook.onrender.com/?role=student
+Главная: https://flower-blook.onrender.com/
+
+До успешной публикации ссылки не работают.
